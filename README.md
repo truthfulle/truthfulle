@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Bash**
 
-- 💬 Ask me about **Music Theory**
+- 💬 Ask me about **Breaking Bad**
 
 - 📫 How to reach me **jonatan.wiankowski@gmail.com**
 
