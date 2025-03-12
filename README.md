@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonatan</h1>
 <h3 align="center">A Computing Science student at the University of Glasgow</h3>
 
-- 🔭 I’m currently working on **Processing Pipeline for CloudView and ASTRAEUS-01**
+- 🔭 I’m currently working on **Processing Pipeline for CloudView and ASTRAEUS-01 @ GU Orbit**
 
 - 🌱 I’m currently learning **Mojo**
 
