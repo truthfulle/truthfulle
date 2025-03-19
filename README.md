@@ -27,4 +27,3 @@
 
 ![](./profile-3d-contrib/profile-night-green-animate.svg)
 
-
